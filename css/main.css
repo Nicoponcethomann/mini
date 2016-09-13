@@ -1,0 +1,145 @@
+*{
+	font-family: "Scope One";
+}
+
+.intro{
+	background: url(../img/fondo-top-of-the-lake.jpg);
+	background-size: cover;
+	height: 600px;
+	padding-top: 30px;
+}
+
+.buttom{
+	background-color: #39383D;
+	width: 100px;
+	height: 60px;
+	color: #E5E5E5;  
+	padding-top: 10px;
+}
+
+.buttom p:hover{
+	cursor: pointer;
+	font-size: 110%;
+	animation-delay: 1s;
+}
+
+.nav{
+	padding-left: 45%;
+}
+
+.nav a{
+	color: white;
+	margin: 0px 20px;
+	font-size: 110%;
+}
+
+.nav a:hover{
+	color: #E5E5E5;
+}
+
+.txt-peliculasta{
+	padding-top: 13%;
+	padding-right: 5%;
+}
+
+.title-one{
+	font-size: 190%;
+	color: #FEFFEC;
+}
+
+.p-two{
+	font-size: 100%;
+	color:black;
+}
+
+.p-two:hover{
+	color: white;
+	opacity: 0.8;
+}
+
+.content{
+	background-color: #E6E6E3;
+}
+
+.content-cont{
+	padding: 80px 0px;
+}
+
+.example{
+	background-color: #FFFFFF;
+	padding: 30px 20px;
+	width: 48%;
+	margin: 20px 10px;
+	border-radius: 5px;
+}
+
+.example p{
+	font-size: 14px;
+}
+
+.les-revenants{
+	background: url(../img/LesRevenants.jpg);
+	background-position: center;
+}
+
+.only-lovers{
+	background: url(../img/only-lovers-left-alive.jpg);
+}
+
+.hannibal{
+	background: url(../img/hannibal.jpeg);
+	background-position: center;
+
+}
+
+.ex-machina{
+	background: url(../img/ex-machina.jpg);
+}
+
+.photo{
+ 	background-size: cover;
+ 	background-repeat: no-repeat;
+ 	width: 300px;
+ 	height: 300px;
+ 	margin: 0px 70px;
+}
+
+.photo:hover{
+	-webkit-filter: invert(100%);
+}
+
+.example h1{
+	margin: 20px 0px;
+	font-size: 130%;
+}
+
+.buttom-readmore{
+	background-color: #141414;
+	width: 20%;
+	height: 30%;
+	margin: 5% 35%;
+	padding: 2%;
+	border-radius: 5px;
+}
+
+.buttom-readmore p{
+	color: white;
+	margin-left: 10%;
+	font-size: 80%;
+}
+
+.buttom-readmore p:hover{
+	animation-delay: 1s;
+	font-size: 85%;
+}
+
+.pie-peliculasta{
+	background-color: black;
+	height: 100px;
+	padding-top: 30px;
+}
+
+.pie-peliculasta p, a{
+	color: #E5E5E5;
+	font-size: 14px;
+}
